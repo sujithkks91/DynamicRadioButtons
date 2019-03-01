@@ -1,0 +1,9 @@
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\bin\Debug\Dynamic Radio.exe.config
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\bin\Debug\Dynamic Radio.exe
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\bin\Debug\Dynamic Radio.pdb
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic_Radio.Form1.resources
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic_Radio.Properties.Resources.resources
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic Radio.csproj.GenerateResource.Cache
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic Radio.exe
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic Radio.pdb
+E:\SKS\Garage\Dynamic Radio\Dynamic Radio\obj\Debug\Dynamic Radio.csprojResolveAssemblyReference.cache
